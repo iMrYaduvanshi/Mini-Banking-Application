@@ -18,7 +18,8 @@ It allows users to perform basic banking operations like account creation, depos
 ## 🛠 Tech Stack
 - Java  
 - OOP Concepts  
-- CLI (Command Line Interface)  
+- CLI (Command Line Interface)
+- MySql
 
 ---
 
